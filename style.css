@@ -14,18 +14,7 @@ img {
 
 /* Медиа-запрос для мобильных устройств */
 @media screen and (max-width: 500px) {
-  .header-section{
-    max-width: 100%;
-    font-size:  20px;
-  }
-  .container{
-     max-width: 70%;
-      font-size: 20px;
-  }
-  .news{
-     max-width: 70%;
-      font-size: 20px;
-  }
+  
 
   /* Пример адаптированных стилей для текста */
   p {
