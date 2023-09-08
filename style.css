@@ -13,7 +13,7 @@ img {
 }
 
 /* Медиа-запрос для мобильных устройств */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 300px) {
   
 
   /* Пример адаптированных стилей для текста */
